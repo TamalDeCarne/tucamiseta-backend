@@ -1,0 +1,6 @@
+api/config.py
+__pycache__
+api/__pycache__
+api/blueprints/__pycache__
+api/utils/__pycache__
+env
