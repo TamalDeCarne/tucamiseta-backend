@@ -1,11 +1,14 @@
+wheel
 Werkzeug==0.16.1
 flask
 SQLAlchemy
 marshmallow
 flask-sqlalchemy 
 marshmallow-sqlalchemy
+mysql
 simplejson
 flask-marshmallow
+mysql-client
 zappa
 mysqlclient
 pymysql
