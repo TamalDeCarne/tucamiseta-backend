@@ -4,8 +4,6 @@ SQLAlchemy
 marshmallow
 flask-sqlalchemy 
 marshmallow-sqlalchemy
-bcrypt
-flask-bcrypt
 simplejson
 flask-marshmallow
 zappa

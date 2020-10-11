@@ -16,7 +16,13 @@ ma = Marshmallow(app)
 
 
 from api.blueprints.cities import city
-app.register_blueprint(city)
+from api.blueprints.states import state
+from api.blueprints.messages import message
 
-if __name__ == "__main__":
-    app.run(debug=True)
+
+app.register_blueprint(city)
+app.register_blueprint(state)
+app.register_blueprint(message)
+
+
+
